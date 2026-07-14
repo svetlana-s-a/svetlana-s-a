@@ -24,7 +24,7 @@ Jupyter Notebook • DBeaver • Google Sheets • Excel
 ## 🐶 Операционный дашборд сервиса по выгулу питомцев
 Интерактивный дашборд для мониторинга ключевых операционных показателей сервиса по выгулу питомцев.
 
-➡️ **[Открыть проект](https://datalens.yandex/p9rjn98wqnek8)**
+➡️ **[Открыть проект](https://github.com/svetlana-s-a/data_analytics_project/tree/main/pet-walking-dashboard)**
 
 ---
 
