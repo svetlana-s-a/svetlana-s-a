@@ -38,7 +38,7 @@ Jupyter Notebook • DBeaver • Google Sheets • Excel
 ## 🍽️ Исследование рынка общественного питания Москвы
 Исследовательский анализ рынка общественного питания Москвы для поиска факторов, влияющих на популярность заведений.
 
-➡️ **[Открыть проект](ссылка)**
+➡️ **[Открыть проект](https://github.com/svetlana-s-a/data_analytics_project/tree/main/moscow-restaurants-eda)**
 
 ---
 
