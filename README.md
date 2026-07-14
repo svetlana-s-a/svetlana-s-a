@@ -9,7 +9,7 @@
 Pandas • NumPy • Matplotlib • Seaborn • SciPy 
 
 ### SQL
-PostgreSQL • JOIN • CTE • Оконные функции • Агрегатные функции • Подзапросы
+PostgreSQL • JOIN • WHERE • GROUP BY • HAVING • CTE • Оконные функции • Агрегатные функции • Подзапросы
 
 ### BI
 Yandex DataLens
