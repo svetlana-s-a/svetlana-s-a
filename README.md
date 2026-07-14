@@ -31,7 +31,7 @@ Jupyter Notebook • DBeaver • Google Sheets • Excel
 ## 🎫 Анализ сервиса Яндекс.Афиша
 Исследовательский анализ данных пользовательского поведения, статистическая проверка гипотез и разработка интерактивного дашборда.
 
-➡️ **[Открыть проект](https://github.com/svetlana-s-a/data_analytics_project/tree/main/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0)**
+➡️ **[Открыть проект](https://github.com/svetlana-s-a/data_analytics_project/tree/main/yandex-afisha-analysis)**
 
 ---
 
