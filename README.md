@@ -54,7 +54,7 @@ Jupyter Notebook • DBeaver • Google Sheets • Excel
 
 Решение аналитических задач для игрового проекта с использованием SQL.
 
-➡️ **[Открыть проект](ссылка)**
+➡️ **[Открыть проект](https://github.com/svetlana-s-a/data_analytics_project/tree/main/game_%20analysis)**
 
 ---
 
